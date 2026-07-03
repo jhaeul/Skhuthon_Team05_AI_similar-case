@@ -1,0 +1,44 @@
+{
+  "target": {
+    "failureId": 1,
+    "userId": 1,
+    "title": "자격증 시험 망함",
+    "category": "EMPLOYMENT",
+    "situation": "시험 보는데 시간이 부족해서 문제를 끝까지 풀지 못했다.",
+    "choice": "당황해서 어려운 문제에 계속 매달렸고, 풀 수 있는 문제로 넘어가지 못했다.",
+    "emotion": "내 자신이 싫고 많이 속상했다."
+  },
+  "failures": [
+    {
+      "failureId": 1,
+      "userId": 1,
+      "title": "자격증 시험 망함",
+      "category": "EMPLOYMENT",
+      "situation": "시험 보는데 시간이 부족해서 문제를 끝까지 풀지 못했다.",
+      "choice": "당황해서 어려운 문제에 계속 매달렸고, 풀 수 있는 문제로 넘어가지 못했다.",
+      "emotion": "내 자신이 싫고 많이 속상했다.",
+      "writer": "실패로그"
+    },
+    {
+      "failureId": 2,
+      "userId": 2,
+      "title": "시험 망함",
+      "category": "STUDY",
+      "situation": "기말고사에서 시간 배분을 못 해서 뒷부분 문제를 거의 풀지 못했다.",
+      "choice": "처음부터 어려운 문제를 붙잡고 오래 고민했다.",
+      "emotion": "너무 속상했고 다음 시험도 두려웠다.",
+      "writer": "성공기록"
+    },
+    {
+      "failureId": 3,
+      "userId": 3,
+      "title": "공모전 발표 준비 실패",
+      "category": "STARTUP",
+      "situation": "발표 전날까지 자료 정리가 끝나지 않아 발표 흐름이 어색했다.",
+      "choice": "역할 분담을 늦게 정했고 진행 상황을 자주 확인하지 않았다.",
+      "emotion": "팀원들에게 미안했다.",
+      "writer": "기록자"
+    }
+  ],
+  "top_k": 3
+}
