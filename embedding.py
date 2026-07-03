@@ -81,6 +81,7 @@ Rules:
 {context_text}
 """
 
+
     response = client.models.generate_content(
         model=CHAT_MODEL,
         contents=question,
